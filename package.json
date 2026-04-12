@@ -18,7 +18,10 @@
     "url": "https://github.com/@enso-ui/enums/issues"
   },
   "homepage": "https://github.com/@enso-ui/enums#readme",
-  "dependencies": {
+  "peerDependencies": {
+    "pinia": "^3.0.3"
+  },
+  "devDependencies": {
     "pinia": "^3.0.3"
   }
 }
