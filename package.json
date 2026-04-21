@@ -1,11 +1,11 @@
 {
   "name": "@enso-ui/enums",
   "version": "2.1.1",
-  "description": "Enums",
+  "description": "Enum helpers and Pinia bootstrap utilities for Enso UI.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/@enso-ui/enums.git"
+    "url": "git+https://github.com/enso-ui/enums.git"
   },
   "keywords": [
     "enso",
@@ -15,9 +15,9 @@
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/@enso-ui/enums/issues"
+    "url": "https://github.com/enso-ui/enums/issues"
   },
-  "homepage": "https://github.com/@enso-ui/enums#readme",
+  "homepage": "https://github.com/enso-ui/enums#readme",
   "peerDependencies": {
     "pinia": "^3.0.3"
   },
